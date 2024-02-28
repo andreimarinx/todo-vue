@@ -1,14 +1,11 @@
-# todo-vue
+# Todo List
 
-This template should help get you started developing with Vue 3 in Vite.
+This project is Todo list developed with Vue.js.
+It uses Pinia for state management, Vue Router for routes, and Vuetifyjs for UI components.
 
-## Recommended IDE Setup
+Demo link: https://expense-tracker-beryl-omega.vercel.app
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+![expense tracker image](./public/todo.png)
 
 ## Project Setup
 
@@ -27,3 +24,5 @@ npm run dev
 ```sh
 npm run build
 ```
+
+# expense-tracker-vue
